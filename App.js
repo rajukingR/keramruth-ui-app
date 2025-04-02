@@ -4,3 +4,6 @@ import MainNavigator from './navigation/BottomTabs';
 export default function App() {
   return <MainNavigator />;
 }
+
+
+// kkkkkk
